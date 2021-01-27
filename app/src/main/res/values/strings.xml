@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TheCatApi</string>
+    <string name="lib_title">Choose Image</string>
+</resources>
